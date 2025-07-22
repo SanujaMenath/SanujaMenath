@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Sanuja Menath
 
-<!--
-**SanujaMenath/SanujaMenath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🔭 I’m currently working on a SaaS-based web application using Next.js and Tailwind CSS
+- 🌱 I’m learning AI/ML, Spring Boot, and React deeply
+- 💼 I'm an aspiring software engineer building my own IT company
+- 🧠 Passionate about web development and system design
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Languages**: JavaScript, PHP, Java, Python
+- **Frameworks**: Laravel, React, Spring Boot, Express.js
+- **Tools**: MySQL, Git, Postman, Docker, VS Code
+- **Others**: REST APIs, JWT, MVC, Agile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Sanuja's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanujaMenath&show_icons=true&theme=radical)
+
+## 📫 Contact Me
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/SanujaMenath)
+- Email: sanujamenath@gmail.com
