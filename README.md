@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Sanuja Menath
 
 ## 🚀 About Me
-- 🔭 I’m currently working on a SaaS-based web application using Next.js and Tailwind CSS
-- 🌱 I’m learning AI/ML, Spring Boot, and React deeply
+- 🔭 I’m currently working on a Online Clothing Store 
+- 🌱 I’m learning Next JS, Laravel, Spring Boot, and React deeply
 - 💼 I'm an aspiring software engineer building my own IT company
 - 🧠 Passionate about web development and system design
 
 ## 🛠️ Skills
 - **Languages**: JavaScript, PHP, Java, Python
 - **Frameworks**: Laravel, React, Spring Boot, Express.js
-- **Tools**: MySQL, Git, Postman, Docker, VS Code
+- **Tools**: MySQL, Git, Postman, Docker, VS Code, IntelliJ Idea
 - **Others**: REST APIs, JWT, MVC, Agile
 
 ## 📈 GitHub Stats
