@@ -6,6 +6,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanujamenath" alt="sanujamenath" /></a> </p>
 
+- 💼 Currently, I’m an Senior Software Engineer at MetroCoding.
+  
 - 👨‍💻 All of my projects are available at [https://my-portfolio-sanujamenath.netlify.app/](https://my-portfolio-sanujamenath.netlify.app/)
 
 - 📫 How to reach me **sanujamenath@gmail.com**
@@ -14,7 +16,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/sanuja-menath-0a4b99155" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanujamenath" height="30" width="40" /></a>
 <a href="https://fb.com/sanujamenath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sanujamenath" height="30" width="40" /></a>
-<a href="https://www.instagram.com/sanujamenath?igsh=MWZmaDd5ZnpybGxqOA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanujamenath" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sanujamenath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanujamenath" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
