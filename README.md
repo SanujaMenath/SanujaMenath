@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sanuja Menath
 
 ## 🚀 About Me
-- 🔭 I’m currently working on a Online Clothing Store 
+- 🔭 I’m currently working on a Metro-Coding. 
 - 🌱 I’m learning Next JS, Laravel, Spring Boot, and React deeply
 - 💼 I'm an aspiring software engineer building my own IT company
 - 🧠 Passionate about web development and system design
