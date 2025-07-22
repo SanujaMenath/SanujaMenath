@@ -16,5 +16,5 @@
 ![Sanuja's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanujaMenath&show_icons=true&theme=radical)
 
 ## 📫 Contact Me
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/SanujaMenath)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/sanuja-menath-0a4b99155/)
 - Email: sanujamenath@gmail.com
