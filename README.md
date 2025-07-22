@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanujamenath" alt="sanujamenath" /></a> </p>
 
-- 💼 Currently, I’m an Senior Software Engineer at MetroCoding.
+- 💼 Currently, I’m a Senior Software Engineer at MetroCoding.
   
 - 👨‍💻 All of my projects are available at [https://my-portfolio-sanujamenath.netlify.app/](https://my-portfolio-sanujamenath.netlify.app/)
 
