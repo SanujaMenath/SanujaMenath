@@ -10,12 +10,13 @@
 
 - 🚀 What I'm Currently Up To  
 
-🌱 Learning Docker for better deployment strategies  
-👨‍💻 Building microservices architecture projects with Spring Boot  
-📚 Exploring machine learning integration in web applications  
-🤝 Open to collaborating on full-stack projects and system design challenges  
+  🌱 Learning Docker for better deployment strategies  
+  👨‍💻 Building microservices architecture projects with Spring Boot  
+  📚 Exploring machine learning integration in web applications  
+  🤝 Open to collaborating on full-stack projects and system design challenges  
 
 - 🛠️ Tech Stack & Tools  
+
 Frontend Development  
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -65,7 +66,7 @@ Programming Languages
 
 
 <h3 align="left">📫 Let's Connect!</h3>
--  I'm always excited to collaborate on interesting projects or discuss the latest in tech!
+- I'm always excited to collaborate on interesting projects or discuss the latest in tech!  
 <p align="left">
   <a href="https://linkedin.com/in/sanuja-menath-0a4b99155" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
