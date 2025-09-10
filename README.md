@@ -8,12 +8,12 @@
 
 - 📫 How to reach me **sanujamenath@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sanuja-menath-0a4b99155" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanujamenath" height="30" width="40" /></a>
-<a href="https://fb.com/sanujamenath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sanujamenath" height="30" width="40" /></a>
-<a href="https://www.instagram.com/sanujamenath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanujamenath" height="30" width="40" /></a>
-</p>
+- 🚀 What I'm Currently Up To
+
+🌱 Learning Docker for better deployment strategies
+👨‍💻 Building microservices architecture projects with Spring Boot
+📚 Exploring machine learning integration in web applications
+🤝 Open to collaborating on full-stack projects and system design challenges
 
 - 🛠️ Tech Stack & Tools
 Frontend Development
@@ -62,6 +62,9 @@ Programming Languages
   <img src="https://github-profile-trophy.vercel.app/?username=sanujamenath&theme=radical&no-frame=true&column=6" alt="GitHub Trophies"/>
 </p> 
 
+
+
+<h3 align="left">Connect with me:</h3>
 - 📫 Let's Connect!
 I'm always excited to collaborate on interesting projects or discuss the latest in tech!
 <p align="left">
