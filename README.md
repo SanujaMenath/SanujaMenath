@@ -2,7 +2,10 @@
 <h3 align="center">I'm a passionate Full-Stack Developer from Sri Lanka 🇱🇰 with a strong interest in system design, and AI-powered apps. I love learning new technologies and turning ideas into real-world projects. Let's connect and build something amazing!
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanujamenath&label=Profile%20views&color=0e75b6&style=flat" alt="sanujamenath" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=sanujamenath&label=Profile%20views&color=0e75b6&style=flat" alt="sanujamenath" /> 
+  <img src="https://img.shields.io/github/followers/sanujamenath?label=Followers&style=social" alt="followers" />
+</p>
   
 - 👨‍💻 All of my projects are available at [https://my-portfolio-sanujamenath.netlify.app/](https://my-portfolio-sanujamenath.netlify.app/)
 
@@ -66,7 +69,8 @@ Programming Languages
 
 
 <h3 align="left">📫 Let's Connect!</h3>
-- I'm always excited to collaborate on interesting projects or discuss the latest in tech!  
+  I'm always excited to collaborate on interesting projects or discuss the latest in tech!  
+    
 <p align="left">
   <a href="https://linkedin.com/in/sanuja-menath-0a4b99155" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
