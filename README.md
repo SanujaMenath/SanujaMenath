@@ -3,8 +3,6 @@
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanujamenath&label=Profile%20views&color=0e75b6&style=flat" alt="sanujamenath" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanujamenath" alt="sanujamenath" /></a> </p>
   
 - 👨‍💻 All of my projects are available at [https://my-portfolio-sanujamenath.netlify.app/](https://my-portfolio-sanujamenath.netlify.app/)
 
@@ -17,7 +15,7 @@
 <a href="https://www.instagram.com/sanujamenath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanujamenath" height="30" width="40" /></a>
 </p>
 
-🛠️ Tech Stack & Tools
+- 🛠️ Tech Stack & Tools
 Frontend Development
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -52,7 +50,7 @@ Programming Languages
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 </p>
 
-📊 GitHub Analytics
+- 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanujamenath&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanujamenath&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
@@ -62,4 +60,21 @@ Programming Languages
 </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sanujamenath&theme=radical&no-frame=true&column=6" alt="GitHub Trophies"/>
+</p> 
+
+- 📫 Let's Connect!
+I'm always excited to collaborate on interesting projects or discuss the latest in tech!
+<p align="left">
+  <a href="https://linkedin.com/in/sanuja-menath-0a4b99155" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:sanujamenath@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://fb.com/sanujamenath" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.instagram.com/sanujamenath" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
