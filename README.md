@@ -32,6 +32,7 @@ Frontend Development
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/>
 </p>  
+
 Backend Development  
   
 <p>
@@ -75,7 +76,7 @@ Programming Languages
 
 
 <h3 align="left">📫 Let's Connect!</h3>
-  ** I'm always excited to collaborate on interesting projects or discuss the latest in tech!  
+  -- I'm always excited to collaborate on interesting projects or discuss the latest in tech!  
     
 <p align="left">
   <a href="https://linkedin.com/in/sanuja-menath-0a4b99155" target="_blank">
@@ -90,4 +91,11 @@ Programming Languages
   <a href="https://www.instagram.com/sanujamenath" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+</p>
+
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it's bad." - Cory House</i>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
