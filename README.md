@@ -94,8 +94,8 @@ Programming Languages
 </p>
 
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad." - Cory House</i>
+  <i>"Code is like humor. When you have to explain it, it's bad."</i>
 </p>
-<p align="center">
+<p align="center" width="full">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
