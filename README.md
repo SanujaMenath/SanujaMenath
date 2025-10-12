@@ -9,13 +9,13 @@
   
 - 👨‍💻 All of my projects are available at [https://my-portfolio-sanujamenath.netlify.app/](https://my-portfolio-sanujamenath.netlify.app/)
 
-- 📫 How to reach me **sanujamenath@gmail.com**
+- 📫 How to reach me **sanujamenath@gmail.com** 
 
 - 🚀 What I'm Currently Up To  
 
-  🌱 Learning Docker for better deployment strategies  
+  📚 Exploring machine learning integration in web applications    
   👨‍💻 Building microservices architecture projects with Spring Boot  
-  📚 Exploring machine learning integration in web applications  
+  🌱 Learning Docker for better deployment strategies    
   🤝 Open to collaborating on full-stack projects and system design challenges  
 
 - 🛠️ Tech Stack & Tools  
@@ -39,26 +39,36 @@ Backend Development
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
 </p>
 
 Database & Tools  
   
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" alt="maven" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg"  alt="Firebase" width="40" height="40" />
 </p>
 
 Programming Languages  
   
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+</p>  
+
+Mobile Development
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
+          
 </p>
 
 -  <h3>📊 GitHub Analytics </h3>   
@@ -76,7 +86,7 @@ Programming Languages
 
 
 <h3 align="left">📫 Let's Connect!</h3>
-  -- I'm always excited to collaborate on interesting projects or discuss the latest in tech!  
+- I'm always excited to collaborate on interesting projects or discuss the latest in tech!  
     
 <p align="left">
   <a href="https://linkedin.com/in/sanuja-menath-0a4b99155" target="_blank">
