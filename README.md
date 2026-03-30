@@ -1,118 +1,136 @@
-<h1 align="center">Hi 👋, I'm Sanuja Menath</h1>
-<h3 align="center">I'm a passionate Full-Stack Developer from Sri Lanka 🇱🇰 with a strong interest in system design, and AI-powered apps. I love learning new technologies and turning ideas into real-world projects. Let's connect and build something amazing!
-</h3>
+<div align="center">
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=sanujamenath&label=Profile%20views&color=0e75b6&style=flat" alt="sanujamenath" /> 
-  <img src="https://img.shields.io/github/followers/sanujamenath?label=Followers&style=social" alt="followers" />
-</p>
-  
-- 👨‍💻 All of my projects are available at [https://my-portfolio-sanujamenath.netlify.app/](https://my-portfolio-sanujamenath.netlify.app/)
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                   │
+│   S A N U J A   M E N A T H                                       │
+│   Full-Stack Developer  ·  Sri Lanka 🇱🇰                          │
+│                                                                   │
+└─────────────────────────────────────────────────────────────────┘
+```
 
-- 📫 How to reach me **sanujamenath@gmail.com** 
+[![Profile Views](https://komarev.com/ghpvc/?username=sanujamenath&label=Profile%20views&color=475569&style=flat)](https://github.com/sanujamenath)
+[![GitHub Followers](https://img.shields.io/github/followers/sanujamenath?label=Followers&style=social)](https://github.com/sanujamenath)
 
-- 🚀 What I'm Currently Up To  
+</div>
 
-  📚 Exploring machine learning integration in web applications    
-  👨‍💻 Building microservices architecture projects with Spring Boot  
-  🌱 Learning Docker for better deployment strategies    
-  🤝 Open to collaborating on full-stack projects and system design challenges  
+---
 
-- 🛠️ Tech Stack & Tools  
+I build purposeful software from pixel-precise frontends to resilient backend systems. Currently exploring the intersection of machine learning and modern web architecture. I believe great software is not just functional, it's thoughtfully crafted.
 
-Frontend Development  
+---
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-</p>  
+## About
 
-Backend Development  
-  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" alt="FastAPI" width="40" height="40"/>
-          
-</p>
+```yaml
+name:       Sanuja Menath
+role:       Full-Stack Developer
+location:   Sri Lanka 🇱🇰
+portfolio:  https://my-portfolio-sanujamenath.netlify.app/
+contact:    sanujamenath@gmail.com
+open_to:    [ collaborations, full-stack projects, system design challenges ]
+```
 
-Database & Tools  
-  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" alt="SQlite" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>        
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" alt="maven" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg"  alt="Firebase" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/>
-</p>
+---
 
-Programming Languages  
-  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>         
-          
-</p>  
+## Currently
 
-Mobile Development
+- 🔬 Exploring **machine learning integration** in web applications
+- ⚙️  Architecting **microservices** with Spring Boot
+- 🐳 Deepening expertise in **Docker** & container-based deployments
+- 🦀 Building native desktop apps with **Rust + Tauri**
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-          
-</p>
+---
 
--  <h3>📊 GitHub Analytics </h3>   
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanujamenath&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanujamenath&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanujamenath&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanujamenath&theme=radical&no-frame=true&column=6" alt="GitHub Trophies"/>
-</p> 
+## Tech Stack
 
+**Frontend**
 
+![HTML5](https://img.shields.io/badge/HTML5-E2E8F0?style=flat-square&logo=html5&logoColor=475569)
+![CSS3](https://img.shields.io/badge/CSS3-E2E8F0?style=flat-square&logo=css3&logoColor=475569)
+![JavaScript](https://img.shields.io/badge/JavaScript-E2E8F0?style=flat-square&logo=javascript&logoColor=475569)
+![TypeScript](https://img.shields.io/badge/TypeScript-E2E8F0?style=flat-square&logo=typescript&logoColor=475569)
+![React](https://img.shields.io/badge/React-E2E8F0?style=flat-square&logo=react&logoColor=475569)
+![Next.js](https://img.shields.io/badge/Next.js-E2E8F0?style=flat-square&logo=nextdotjs&logoColor=475569)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-E2E8F0?style=flat-square&logo=tailwindcss&logoColor=475569)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-E2E8F0?style=flat-square&logo=bootstrap&logoColor=475569)
 
-<h3 align="left">📫 Let's Connect!</h3>
-- I'm always excited to collaborate on interesting projects or discuss the latest in tech!  
-    
-<p align="left">
-  <a href="https://linkedin.com/in/sanuja-menath-0a4b99155" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:sanujamenath@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://fb.com/sanujamenath" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://www.instagram.com/sanujamenath" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
+**Backend**
 
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad."</i>
-</p>
-<p align="center" width="full">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-E2E8F0?style=flat-square&logo=nodedotjs&logoColor=475569)
+![PHP](https://img.shields.io/badge/PHP-E2E8F0?style=flat-square&logo=php&logoColor=475569)
+![Laravel](https://img.shields.io/badge/Laravel-E2E8F0?style=flat-square&logo=laravel&logoColor=475569)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-E2E8F0?style=flat-square&logo=springboot&logoColor=475569)
+![FastAPI](https://img.shields.io/badge/FastAPI-E2E8F0?style=flat-square&logo=fastapi&logoColor=475569)
+
+**Systems & Desktop**
+
+![Rust](https://img.shields.io/badge/Rust-E2E8F0?style=flat-square&logo=rust&logoColor=475569)
+![Tauri](https://img.shields.io/badge/Tauri-E2E8F0?style=flat-square&logo=tauri&logoColor=475569)
+
+**Database & Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-E2E8F0?style=flat-square&logo=mysql&logoColor=475569)
+![SQLite](https://img.shields.io/badge/SQLite-E2E8F0?style=flat-square&logo=sqlite&logoColor=475569)
+![MongoDB](https://img.shields.io/badge/MongoDB-E2E8F0?style=flat-square&logo=mongodb&logoColor=475569)
+![Firebase](https://img.shields.io/badge/Firebase-E2E8F0?style=flat-square&logo=firebase&logoColor=475569)
+![Git](https://img.shields.io/badge/Git-E2E8F0?style=flat-square&logo=git&logoColor=475569)
+![Postman](https://img.shields.io/badge/Postman-E2E8F0?style=flat-square&logo=postman&logoColor=475569)
+![Figma](https://img.shields.io/badge/Figma-E2E8F0?style=flat-square&logo=figma&logoColor=475569)
+![Maven](https://img.shields.io/badge/Maven-E2E8F0?style=flat-square&logo=apachemaven&logoColor=475569)
+![Jupyter](https://img.shields.io/badge/Jupyter-E2E8F0?style=flat-square&logo=jupyter&logoColor=475569)
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-E2E8F0?style=flat-square&logo=openjdk&logoColor=475569)
+![Python](https://img.shields.io/badge/Python-E2E8F0?style=flat-square&logo=python&logoColor=475569)
+![C](https://img.shields.io/badge/C-E2E8F0?style=flat-square&logo=c&logoColor=475569)
+![C++](https://img.shields.io/badge/C++-E2E8F0?style=flat-square&logo=cplusplus&logoColor=475569)
+![C#](https://img.shields.io/badge/C%23-E2E8F0?style=flat-square&logo=csharp&logoColor=475569)
+![Dart](https://img.shields.io/badge/Dart-E2E8F0?style=flat-square&logo=dart&logoColor=475569)
+
+**Mobile**
+
+![Android](https://img.shields.io/badge/Android-E2E8F0?style=flat-square&logo=android&logoColor=475569)
+![Flutter](https://img.shields.io/badge/Flutter-E2E8F0?style=flat-square&logo=flutter&logoColor=475569)
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanujamenath&show_icons=true&theme=graywhite&hide_border=true&title_color=475569&icon_color=94a3b8&text_color=475569&bg_color=f8fafc" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanujamenath&layout=compact&theme=graywhite&hide_border=true&title_color=475569&text_color=475569&bg_color=f8fafc" alt="Top Languages" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanujamenath&theme=graywhite&hide_border=true&ring=94a3b8&fire=475569&currStreakLabel=475569&sideLabels=475569&dates=94a3b8" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sanujamenath&theme=flat&no-frame=true&column=6&title_color=475569&icon_color=94a3b8&text_color=475569" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-475569?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanuja-menath-0a4b99155)
+[![Email](https://img.shields.io/badge/Email-475569?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanujamenath@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-475569?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-sanujamenath.netlify.app/)
+[![Facebook](https://img.shields.io/badge/Facebook-475569?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/sanujamenath)
+[![Instagram](https://img.shields.io/badge/Instagram-475569?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sanujamenath)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Engineered with care · Open to collaboration · Always learning</sub>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=94a3b8&height=60&section=footer"/>
+</div>
