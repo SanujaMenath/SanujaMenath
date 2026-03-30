@@ -10,7 +10,7 @@
 
 <br/>
 
-> *Crafting purposeful software — from pixel-precise frontends to resilient distributed systems.*
+> *Crafting purposeful software from pixel-precise frontends to resilient distributed systems.*
 > *Passionate about clean architecture, developer experience, and the art of building things that last.*
 
 </div>
