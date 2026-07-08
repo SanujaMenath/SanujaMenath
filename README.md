@@ -1,140 +1,183 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=120&section=header&text=Sanuja%20Menath&fontSize=42&fontColor=F8FAFC&fontAlignY=65&desc=Full-Stack%20Developer%20%C2%B7%20Sri%20Lanka&descSize=16&descAlignY=85&descColor=94A3B8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sanuja%20Menath&fontSize=48&fontColor=FFFFFF&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Sri%20Lanka&descSize=18&descAlignY=58&descColor=E0E7FF&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=sanujamenath&label=Profile+Views&color=0F172A&style=flat-square)](https://github.com/sanujamenath)
+<a href="https://my-portfolio-sanujamenath.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/sanuja-menath-0a4b99155">
+  <img src="https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:sanujamenath@gmail.com">
+  <img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=sanujamenath&label=Profile+Views&color=4F46E5&style=flat-square" />
 &nbsp;
-[![GitHub Followers](https://img.shields.io/github/followers/sanujamenath?label=Followers&style=flat-square&color=0F172A&labelColor=0F172A&logo=github&logoColor=white)](https://github.com/sanujamenath)
-
-<br/>
-
-> *Crafting purposeful software from pixel-precise frontends to resilient distributed systems.*
-> *Passionate about clean architecture, developer experience, and the art of building things that last.*
+<img src="https://img.shields.io/github/followers/sanujamenath?label=Followers&style=flat-square&color=0EA5E9&labelColor=1E1B4B&logo=github&logoColor=white" />
 
 </div>
 
----
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px"/>
+</div>
 
 <br/>
 
-## ◈ &nbsp; About Me
+## 👋&nbsp; About Me
+
+I'm a full-stack developer who enjoys turning ideas into clean, purposeful software from pixel-precise frontends to distributed backend systems. I care about clean architecture, developer experience, and building things that hold up over time.
 
 ```yaml
-name        : Sanuja Menath
-role        : Full-Stack Developer
-location    : Sri Lanka 🇱🇰
-portfolio   : https://my-portfolio-sanujamenath.netlify.app/
-email       : sanujamenath@gmail.com
-open_to     : [ collaborations, full-stack projects, system design ]
+name:      Sanuja Menath
+role:      Full-Stack Developer
+based_in:  Sri Lanka 🇱🇰
+portfolio: my-portfolio-sanujamenath.netlify.app
+open_to:   Collaborations · Full-Stack Projects · System Design
 ```
 
 <br/>
 
-## ◈ &nbsp; Currently Exploring
+## 🔭&nbsp; Currently Exploring
 
-| | Focus |
-|--|-------|
-| 🔬 | Machine learning integration in modern web apps |
-| ⚙️ | Microservices architecture with Spring Boot |
-| 🐳 | Docker & container-based deployment strategies |
-| 🦀 | Native desktop development with Rust & Tauri |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🤖 Machine Learning in Web Apps**
+Integrating ML-driven features into modern React/Next.js products
+
+**🧩 Microservices with Spring Boot**
+Designing resilient, decoupled backend architectures
+
+</td>
+<td width="50%" valign="top">
+
+**🐳 Docker & Container Deployment**
+Building reproducible, production-ready deployment pipelines
+
+**🦀 Native Desktop with Rust & Tauri**
+Lightweight, high-performance desktop applications
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-## ◈ &nbsp; Tech Stack
+## 🛠️&nbsp; Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="33%">
 
 **Frontend**
 
-![HTML5](https://img.shields.io/badge/HTML5-0F172A?style=flat-square&logo=html5&logoColor=F8FAFC)
-![CSS3](https://img.shields.io/badge/CSS3-0F172A?style=flat-square&logo=css3&logoColor=F8FAFC)
-![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=F8FAFC)
-![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=F8FAFC)
-![React](https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=F8FAFC)
-![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=flat-square&logo=nextdotjs&logoColor=F8FAFC)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwindcss&logoColor=F8FAFC)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0F172A?style=flat-square&logo=bootstrap&logoColor=F8FAFC)
+<img src="https://img.shields.io/badge/React-4F46E5?style=flat-square&logo=react&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Next.js-4F46E5?style=flat-square&logo=nextdotjs&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/TypeScript-4F46E5?style=flat-square&logo=typescript&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/JavaScript-4F46E5?style=flat-square&logo=javascript&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-4F46E5?style=flat-square&logo=tailwindcss&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Bootstrap-4F46E5?style=flat-square&logo=bootstrap&logoColor=white" />
+
+</td>
+<td valign="top" width="33%">
 
 **Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=flat-square&logo=nodedotjs&logoColor=F8FAFC)
-![PHP](https://img.shields.io/badge/PHP-0F172A?style=flat-square&logo=php&logoColor=F8FAFC)
-![Laravel](https://img.shields.io/badge/Laravel-0F172A?style=flat-square&logo=laravel&logoColor=F8FAFC)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0F172A?style=flat-square&logo=springboot&logoColor=F8FAFC)
-![FastAPI](https://img.shields.io/badge/FastAPI-0F172A?style=flat-square&logo=fastapi&logoColor=F8FAFC)
+<img src="https://img.shields.io/badge/Node.js-0EA5E9?style=flat-square&logo=nodedotjs&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Spring_Boot-0EA5E9?style=flat-square&logo=springboot&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Laravel-0EA5E9?style=flat-square&logo=laravel&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/FastAPI-0EA5E9?style=flat-square&logo=fastapi&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/PHP-0EA5E9?style=flat-square&logo=php&logoColor=white" />
 
-**Systems & Desktop**
+</td>
+<td valign="top" width="33%">
 
-![Rust](https://img.shields.io/badge/Rust-0F172A?style=flat-square&logo=rust&logoColor=F8FAFC)
-![Tauri](https://img.shields.io/badge/Tauri-0F172A?style=flat-square&logo=tauri&logoColor=F8FAFC)
+**Systems & Mobile**
 
-**Database & Tools**
+<img src="https://img.shields.io/badge/Rust-8B5CF6?style=flat-square&logo=rust&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Tauri-8B5CF6?style=flat-square&logo=tauri&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Flutter-8B5CF6?style=flat-square&logo=flutter&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Android-8B5CF6?style=flat-square&logo=android&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/C%23-8B5CF6?style=flat-square&logo=csharp&logoColor=white" />
 
-![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=flat-square&logo=mysql&logoColor=F8FAFC)
-![SQLite](https://img.shields.io/badge/SQLite-0F172A?style=flat-square&logo=sqlite&logoColor=F8FAFC)
-![MongoDB](https://img.shields.io/badge/MongoDB-0F172A?style=flat-square&logo=mongodb&logoColor=F8FAFC)
-![Firebase](https://img.shields.io/badge/Firebase-0F172A?style=flat-square&logo=firebase&logoColor=F8FAFC)
-![Git](https://img.shields.io/badge/Git-0F172A?style=flat-square&logo=git&logoColor=F8FAFC)
-![Postman](https://img.shields.io/badge/Postman-0F172A?style=flat-square&logo=postman&logoColor=F8FAFC)
-![Figma](https://img.shields.io/badge/Figma-0F172A?style=flat-square&logo=figma&logoColor=F8FAFC)
-![Maven](https://img.shields.io/badge/Maven-0F172A?style=flat-square&logo=apachemaven&logoColor=F8FAFC)
-![Jupyter](https://img.shields.io/badge/Jupyter-0F172A?style=flat-square&logo=jupyter&logoColor=F8FAFC)
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-0F172A?style=flat-square&logo=openjdk&logoColor=F8FAFC)
-![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=F8FAFC)
-![C](https://img.shields.io/badge/C-0F172A?style=flat-square&logo=c&logoColor=F8FAFC)
-![C++](https://img.shields.io/badge/C++-0F172A?style=flat-square&logo=cplusplus&logoColor=F8FAFC)
-![C#](https://img.shields.io/badge/C%23-0F172A?style=flat-square&logo=csharp&logoColor=F8FAFC)
-![Dart](https://img.shields.io/badge/Dart-0F172A?style=flat-square&logo=dart&logoColor=F8FAFC)
+<img src="https://img.shields.io/badge/Java-1E1B4B?style=flat-square&logo=openjdk&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Python-1E1B4B?style=flat-square&logo=python&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/C++-1E1B4B?style=flat-square&logo=cplusplus&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/C-1E1B4B?style=flat-square&logo=c&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Dart-1E1B4B?style=flat-square&logo=dart&logoColor=white" />
 
-**Mobile**
+</td>
+<td valign="top" width="33%">
 
-![Android](https://img.shields.io/badge/Android-0F172A?style=flat-square&logo=android&logoColor=F8FAFC)
-![Flutter](https://img.shields.io/badge/Flutter-0F172A?style=flat-square&logo=flutter&logoColor=F8FAFC)
+**Database**
+
+<img src="https://img.shields.io/badge/MySQL-1E1B4B?style=flat-square&logo=mysql&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/MongoDB-1E1B4B?style=flat-square&logo=mongodb&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/SQLite-1E1B4B?style=flat-square&logo=sqlite&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Firebase-1E1B4B?style=flat-square&logo=firebase&logoColor=white" />
+
+</td>
+<td valign="top" width="33%">
+
+**Tools**
+
+<img src="https://img.shields.io/badge/Git-334155?style=flat-square&logo=git&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Postman-334155?style=flat-square&logo=postman&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Figma-334155?style=flat-square&logo=figma&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Maven-334155?style=flat-square&logo=apachemaven&logoColor=white" />
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-## ◈ &nbsp; GitHub Analytics
+## 📊&nbsp; GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sanujamenath&show_icons=true&hide_border=true&bg_color=0F172A&title_color=F8FAFC&text_color=94A3B8&icon_color=64748B" height="165" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanujamenath&layout=compact&hide_border=true&bg_color=0F172A&title_color=F8FAFC&text_color=94A3B8" height="165" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sanujamenath&show_icons=true&hide_border=true&bg_color=0D1330&title_color=93C5FD&text_color=CBD5E1&icon_color=A78BFA&border_radius=12" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanujamenath&layout=compact&hide_border=true&bg_color=0D1330&title_color=93C5FD&text_color=CBD5E1&border_radius=12" height="165"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanujamenath&hide_border=true&background=0F172A&ring=64748B&fire=94A3B8&currStreakLabel=F8FAFC&sideLabels=94A3B8&dates=475569&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=sanujamenath&theme=onestar&no-frame=true&column=6&margin-w=4" alt="GitHub Trophies"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanujamenath&hide_border=true&background=0D1330&ring=8B5CF6&fire=0EA5E9&currStreakLabel=93C5FD&sideLabels=CBD5E1&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF&border_radius=12"/>
 
 </div>
 
 <br/>
 
-## ◈ &nbsp; Let's Connect
+## 🤝&nbsp; Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=F8FAFC)](https://linkedin.com/in/sanuja-menath-0a4b99155)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=F8FAFC)](https://my-portfolio-sanujamenath.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=F8FAFC)](mailto:sanujamenath@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-0F172A?style=for-the-badge&logo=facebook&logoColor=F8FAFC)](https://fb.com/sanujamenath)
-[![Instagram](https://img.shields.io/badge/Instagram-0F172A?style=for-the-badge&logo=instagram&logoColor=F8FAFC)](https://www.instagram.com/sanujamenath)
+<a href="https://linkedin.com/in/sanuja-menath-0a4b99155"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://my-portfolio-sanujamenath.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:sanujamenath@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://fb.com/sanujamenath"><img src="https://img.shields.io/badge/Facebook-334155?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://www.instagram.com/sanujamenath"><img src="https://img.shields.io/badge/Instagram-334155?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 </div>
 
 <br/>
 
----
-
 <div align="center">
-<sub><b>Engineered with care &nbsp;·&nbsp; Always building & learning &nbsp;·&nbsp; Never stopping</b></sub>
+<sub>Engineered with care · Always building, always learning</sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=80&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
