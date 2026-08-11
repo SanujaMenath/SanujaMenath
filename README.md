@@ -7,7 +7,7 @@
 <a href="https://my-portfolio-sanujamenath.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/sanuja-menath-0a4b99155">
+<a href="https://linkedin.com/in/sanuja-menath">
   <img src="https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:sanujamenath@gmail.com">
